@@ -1,0 +1,16 @@
+.footer {
+    height: 250px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footerb {
+    height: 180px;
+    width: 300px;
+    float: left;
+    color: white;
+    text-align: center;
+}
